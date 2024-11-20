@@ -2,7 +2,7 @@
 
 Will be updated later
 
-## Team
+## Meet Our Team
 
 - **Shean Finnegan**: NIM
 - **Matthew Raditya**: NIM
@@ -14,3 +14,5 @@ Will be updated later
 
 - **[Laravel](laravellink)**
 - **[Vite](vitelink)**
+
+Will be updated later
